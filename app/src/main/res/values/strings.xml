@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YouShengDemo</string>
+    <string name="str_text_1">demo_from_qiaodong</string>
+    <string name="str_text_2">email:qiaodong@okay.cn</string>
+    <string name="str_text_3">phone:15711363866</string>
+    <string name="str_audio">音频播放</string>
+</resources>
